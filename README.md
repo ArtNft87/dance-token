@@ -12,6 +12,7 @@ This repository contains the official information for the Dancecoin (DANCE) SPL 
 * **Decimals:** 6
 * **Mint Authority:** Permanently Disabled
 * **Mainnet Token Mint Address:** `BACqjB85UGUShQHY5Aapnf3CRbXF6nysCxgm2MqW39y2`
+* Token Metadata: [View Metadata File](token-metadata.json)
 
 ---
 
