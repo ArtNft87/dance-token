@@ -11,8 +11,7 @@ This repository contains the official information for the Dancecoin (DANCE) SPL 
 * **Total Supply:** 100,000,000
 * **Decimals:** 6
 * **Mint Authority:** Permanently Disabled
-* **Mainnet Token Mint Address:** `To be determined after mainnet launch.`
-* **Devnet Token Mint Address:** `To be determined.`
+* **Mainnet Token Mint Address:** `BACqjB85UGUShQHY5Aapnf3CRbXF6nysCxgm2MqW39y2`
 
 ---
 
