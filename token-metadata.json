@@ -1,0 +1,22 @@
+{
+  "key": 4,
+  "updateAuthority": "2YFvj28ug35CrnJgXQWuURe6sMG1QgaTtdrnyU9EaLcA",
+  "mint": "FApsTJWJSmkEn5xBRxasEehwnmJLZuwHv7D8xUuBFfHc",
+  "data": {
+    "name": "DANCECOIN",
+    "symbol": "DANCE",
+    "uri": "https://gateway.pinata.cloud/ipfs/QmYc29RSTNm6faekFYmrQomczcGWkQiRtjhPB4J8qwoUZZ",
+    "sellerFeeBasisPoints": 0,
+    "creators": [
+      {
+        "address": "2YFvj28ug35CrnJgXQWuURe6sMG1QgaTtdrnyU9EaLcA",
+        "verified": 1,
+        "share": 100
+      }
+    ]
+  },
+  "primarySaleHappened": 0,
+  "isMutable": 1,
+  "editionNonce": 255,
+  "tokenStandard": 2
+}
